@@ -3,7 +3,7 @@ const contentWidth = parseFloat(content);
 const paddingWidth = parseFloat(padding);
 const borderWidth = parseFloat(border);
 
-const totalWidht = contentWidth + paddingWidth * 2 + borderWidth * 2;
+const totalWidth = contentWidth + paddingWidth * 2 + borderWidth * 2;
 return totalWidht;
 }
 
